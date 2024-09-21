@@ -14,7 +14,6 @@ Grouping by priority is selected.
 ![image](https://github.com/nimishsara12/quicksell_assignment/assets/84761132/83c2b384-0502-4547-8f4b-c90c029e519b)
 
 Card:
-![image](https://github.com/nimishsara12/quicksell_assignment/assets/84761132/e8826ee1-18ad-464c-a9e3-25e452be95a6)
 
 Api Used :  https://api.quicksell.co/v1/internal/frontend-assignment 
 When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
